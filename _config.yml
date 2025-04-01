@@ -1,10 +1,6 @@
 title: Kyle Hodrick # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
-  <br><br>
   <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
   <br>
   <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
@@ -15,6 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
   
 theme: jekyll-theme-minimal
