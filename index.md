@@ -22,6 +22,8 @@ You can show off your midterm analysis by moving the report components and outpu
 
 <img src="_layouts/output_4_0.png?raw=true"/>
 
+<img src="_layouts/output_6_0.png?raw=true"/>
+
 ---
 
 _**[Regression Practice](Regression_practice)**_
