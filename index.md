@@ -25,25 +25,12 @@ This project explored the relationship between sentiment measures derived from 1
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Group Project: Market Reactions to Central Bank Communications](https://fed-announcements.streamlit.app)**_
 
 <img src="images/3377a57b851d4a2590e7f61b92282a335c7a03bc197cad98badb8112.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Career Objectives
 
