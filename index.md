@@ -18,7 +18,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 _**[Natural language processing 10-Ks to identify risks](projects/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This project explored the relationship between sentiment measures derived from 10-K filings and firm returns around the 10-K release. I constructed a dataset by merging sentiment data from financial filings with return data for frims in the S&P 500 in 2022. I explored the mechanical construction of sentiment variables, considering both lexicon-based sentiment measures and topic-specific contextual sentiment measures, focusing on revenue, risk, and growth.
 
 <img src="images/output_4_0.png?raw=true"/>
 
