@@ -21,6 +21,8 @@ This project explored the relationship between sentiment measures derived from 1
 
 _**[Group Project: Market Reactions to Central Bank Communications](https://fed-announcements.streamlit.app)**_
 
+Use the link above to navigate to our project's website.
+
 <img src="images/3377a57b851d4a2590e7f61b92282a335c7a03bc197cad98badb8112.jpg?raw=true"/>
 
 ---
