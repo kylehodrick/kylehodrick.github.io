@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I'm from Allentown, Pennsylvania, and currently studying Finance at Lehigh University, with an expected graduation in December 2025. My academic interests and internship experience center around wealth management, financial analysis, and investment strategy.
 
 <!-- Upload your own photo and change the path -->
 
@@ -30,15 +28,13 @@ _**[Group Project: Market Reactions to Central Bank Communications](https://fed-
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am pursuing a career in finance, with a focus in ivestment research, asset management, or financial anlysis. My goal is to develop a strong foundation in both traditional finance and data-driven decision-making. I'm especially interested in working with teams that value critical thinking, long-term strategy, and client-focused solutions. Through internships, coursework, and personal projects, I aim to deepen my understanding financial markets, portfolio construction, and financial modeling.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+In my free time, enjoy playing golf, poker, and cooking. Poker appeals to me for its emphasis on risk assessment and decision-making under uncertainty. Cooking is a creative outlet that I find both relaxing and rewarding. I'm also an avid support of Liverpool F.C.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
