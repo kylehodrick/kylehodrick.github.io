@@ -20,7 +20,7 @@ _**[Natural language processing 10-Ks to identify risks](projects/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="_layouts/output_4_0.png?raw=true"/>
+<img src="images/output_4_0.png?raw=true"/>
 
 
 ---
