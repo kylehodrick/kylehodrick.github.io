@@ -36,7 +36,7 @@ I am pursuing a career in finance, with a focus in investment research, asset ma
 
 ## Hobbies
 
-In my free time, enjoy playing golf, poker, and cooking. Poker appeals to me for its emphasis on risk assessment and decision-making under uncertainty. Cooking is a creative outlet that I find both relaxing and rewarding. I'm also an avid support of Liverpool F.C.
+In my free time, I enjoy playing golf, poker, and cooking. Poker appeals to me for its emphasis on risk assessment and decision-making under uncertainty. Cooking is a creative outlet that I find both relaxing and rewarding. I'm also an avid support of Liverpool F.C.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
