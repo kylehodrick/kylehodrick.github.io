@@ -30,7 +30,7 @@ Use the link above to navigate to our project's website.
 
 ## Career Objectives
 
-I am pursuing a career in finance, with a focus in ivestment research, asset management, or financial anlysis. My goal is to develop a strong foundation in both traditional finance and data-driven decision-making. I'm especially interested in working with teams that value critical thinking, long-term strategy, and client-focused solutions. Through internships, coursework, and personal projects, I aim to deepen my understanding financial markets, portfolio construction, and financial modeling.
+I am pursuing a career in finance, with a focus in investment research, asset management, or financial anlysis. My goal is to develop a strong foundation in both traditional finance and data-driven decision-making. I'm especially interested in working with teams that value critical thinking, long-term strategy, and client-focused solutions. Through internships, coursework, and personal projects, I aim to deepen my understanding financial markets, portfolio construction, and financial modeling.
 
 ---
 
